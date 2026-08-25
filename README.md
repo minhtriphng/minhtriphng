@@ -30,7 +30,7 @@
 
 ## ☁️ DevOps & Cloud Native
 
-[![Nginx](https://img.shields.io/badge/nginx-ingress-009639?style=for-the-badge&logo=nginx&logoColor=green)](#)
+![Nginx](https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
 ## 🔋 Tool Other
 
