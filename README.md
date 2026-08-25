@@ -3,7 +3,7 @@
 <img src="https://hoseiki.vn/wp-content/uploads/2025/03/anh-anime-cute-28.jpg" align="right" width="200px" style="margin-left: 20px;"/>
 
 ## About
-- 🔭 I’m a Full-stack Developer  
+- 🔭 I’m a Backend Developer  
 - 💡 Passionate about building web and mobile apps  
 - 👯 Open to collaborate on projects
 
@@ -16,33 +16,21 @@
 [![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](#)
 [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](#)
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](#)
-[![Java](https://img.shields.io/badge/java-%23ED8B00?style=for-the-badge&logo=java&logoColor=white)](#)
 
 ## 📚 Frameworks
 
-[![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](#) 
-[![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)](#)
 [![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](#) 
-[![Express](https://img.shields.io/badge/express-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)](#)
 [![NestJS](https://img.shields.io/badge/nestjs-E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)](#) 
-[![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)](#)
 
 <!-- [![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)](#) -->
 
 ## 📦 Databases
 
-[![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)](#) [![MySQL](https://img.shields.io/badge/mysql-039BE5.svg?style=for-the-badge&logo=mysql&logoColor=white)](#) [![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)](#) [![Firebase](https://img.shields.io/badge/Firebase-F77F00?style=for-the-badge&logo=Firebase&logoColor=white)](#) [![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)](#)
+[![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)](#) [![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)](#) [![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)](#)
 
 ## ☁️ DevOps & Cloud Native
 
-[![Kubernetes](https://img.shields.io/badge/kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)](#)
-[![Helm](https://img.shields.io/badge/helm-%230F1689.svg?style=for-the-badge&logo=helm&logoColor=white)](#)
-[![ArgoCD](https://img.shields.io/badge/argocd-FE4C1E.svg?style=for-the-badge&logo=argo&logoColor=white)](#)
-[![GitOps](https://img.shields.io/badge/gitops-2088FF?style=for-the-badge&logo=git&logoColor=white)](#)
 [![Nginx](https://img.shields.io/badge/nginx-ingress-009639?style=for-the-badge&logo=nginx&logoColor=white)](#)
-[![Prometheus](https://img.shields.io/badge/prometheus-E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=white)](#)
-[![Grafana](https://img.shields.io/badge/grafana-F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)](#)
-[![AWS](https://img.shields.io/badge/Amazon_AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](#)
 
 ## 🔋 Tool Other
 
@@ -55,7 +43,7 @@
 
 ## Contact me
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#thang2k6adu@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#phamnguyenminhtri249@gmail.com)
 
 ## Coding Stats
 
