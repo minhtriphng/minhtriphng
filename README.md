@@ -45,9 +45,3 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#phamnguyenminhtri249@gmail.com)
 
-## Coding Stats
-
-<!--START_SECTION:waka-->
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thang2k6adu&count_private=false&layout=donut&theme=tokyonight)](https://github.com/thang2k6adu)
-![](https://komarev.com/ghpvc/?username=thang2k6adu&color=blue)
